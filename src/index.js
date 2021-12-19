@@ -1,1 +1,1 @@
-console.log('This is a index file')
+console.log('This is a indexle')
